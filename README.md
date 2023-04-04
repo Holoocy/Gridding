@@ -1,2 +1,0 @@
-# Gridding
-Gridding in CSS
